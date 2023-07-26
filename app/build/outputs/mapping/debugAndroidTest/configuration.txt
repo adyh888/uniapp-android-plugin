@@ -1,0 +1,11 @@
+# The proguard configuration file for the following section is <unknown>
+-ignorewarnings
+-dontoptimize
+-keep class * {*;}
+-keep interface * {*;}
+-keep enum * {*;}
+-keepattributes *
+# End of content from <unknown>
+# The proguard configuration file for the following section is <unknown>
+-applymapping "/Users/liqian/Desktop/同步空间/demo15/android-uniapp-demo2/Android-SDK@3.8.7.81902_20230704/UniPlugin-Hello-AS/app/build/outputs/mapping/debug/mapping.txt"
+# End of content from <unknown>

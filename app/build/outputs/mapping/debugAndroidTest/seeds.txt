@@ -1,0 +1,8 @@
+com.android.UniPlugin.test.BuildConfig: <clinit>()
+com.android.UniPlugin.test.BuildConfig
+com.android.UniPlugin.test.BuildConfig: BuildConfig()
+com.android.UniPlugin.test.R
+com.android.UniPlugin.test.BuildConfig: java.lang.String BUILD_TYPE
+com.android.UniPlugin.test.R: R()
+com.android.UniPlugin.test.BuildConfig: java.lang.String APPLICATION_ID
+com.android.UniPlugin.test.BuildConfig: boolean DEBUG

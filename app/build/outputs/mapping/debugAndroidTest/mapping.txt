@@ -1,0 +1,8 @@
+# compiler: R8
+# compiler_version: 2.1.75
+# min_api: 21
+# pg_map_id: 5a6f788
+# common_typos_disable
+com.android.UniPlugin.test.BuildConfig -> com.android.UniPlugin.test.BuildConfig:
+    7:7:void <clinit>() -> <clinit>
+    6:6:void <init>() -> <init>
